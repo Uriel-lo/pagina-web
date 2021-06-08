@@ -147,6 +147,7 @@ p {
 /*componentes nav*/
 nav {
     justify-content: space-between;
+    z-index: 99999;
 }
 .logo {
     font-weight: 700;
